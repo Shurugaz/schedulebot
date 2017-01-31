@@ -1,5 +1,4 @@
 module.exports = {
-
     // Your bot name. Typically, this is your bot's username without the discriminator.
     // i.e: if your bot's username is MemeBot#0420, then this option would be MemeBot.
     name: "iScheduleDoto",
